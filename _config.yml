@@ -1,7 +1,7 @@
 name: Best Golfimages ever
 favicon: null
-layout_spectrum: 0.1406071400269866
-typography_spectrum: 0.09613326587714255
+layout_spectrum: 0.01701
+typography_spectrum: 0.65561
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.6294853249564767
-  lightness: 0.34718527109362185
-  saturation: 0.2546334962826222
-  rhythmicContrast: 0.8304389701224864
+    - '#000000'
+    - '#4e668a'
+    - '#a7c6db'
+    - '#fcfded'
+    - '#cc8d5a'
+  brandStrength: 0.8125
+  lightness: 0.0625
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
